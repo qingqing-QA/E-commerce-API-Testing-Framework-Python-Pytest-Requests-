@@ -23,8 +23,7 @@ It is designed with modular architecture and reusable components to support main
 - Python
 - Pytest
 - Requests
-- JSON
-- 
+- JSON 
 ---
 
 ## 🔑 Test Scenarios
