@@ -2,7 +2,7 @@
 
 A scalable and production-style API automation testing framework built using **Python**, **Requests**, and **Pytest**.
 
-This project simulates real-world API testing scenarios for an e-commerce system, covering core business flows such as authentication, product retrieval, and cart operations.
+This project simulates real-world API testing scenarios for an e-commerce system, covering core business flows such as login, add products, and checkout.
 
 It is designed with modular architecture and reusable components to support maintainability and scalability in real QA environments.
 
@@ -15,10 +15,7 @@ It is designed with modular architecture and reusable components to support main
 - Token-based authentication handling
 - Modular API layer design
 - Reusable request utilities
-- Data-driven testing support (JSON)
-- HTML test reports generation
-- CI/CD ready structure
-
+- Data-driven testing support (JSON) 
 ---
 
 ## 🧠 Tech Stack
@@ -27,8 +24,7 @@ It is designed with modular architecture and reusable components to support main
 - Pytest
 - Requests
 - JSON
-- Git & GitHub
-
+- 
 ---
 
 ## 🔑 Test Scenarios
@@ -51,6 +47,6 @@ It is designed with modular architecture and reusable components to support main
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/api-testing-framework.git
+git clone https://github.com/qingqing-QA/api-testing-framework.git
 cd api-testing-framework
 pip install -r requirements.txt
